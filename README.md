@@ -53,4 +53,4 @@ personal-profile-card/
 ---
 
 ## 🖥️ Demo   
-![Demo] (Demo.png)
+![Demo](Demo.png)
